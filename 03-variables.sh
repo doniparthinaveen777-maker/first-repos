@@ -1,6 +1,6 @@
 #!/bin/bash
  PRESON1=yuji
- PRESON2=goj
+ PRESON2=gojo
 
 
 echo "$PRESON1:: hi $PRESON2"
