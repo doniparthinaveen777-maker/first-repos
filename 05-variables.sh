@@ -1,7 +1,7 @@
 #!/bin/bash
 
-echo "enter your username ::"
+echo "nee peru enti bro ="
 
-read username
+read neeperu
 
-echo "username entered: $username"
+echo "idho nee peru: $neeperu"
