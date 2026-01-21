@@ -8,4 +8,4 @@ echo "nee peru enter chesav aithe: $neeperu"
 
 echo "password type cheyi="
 read -s password
-echo "idhigo nee password = $password"
+echo -s "idhigo nee password = $password"
