@@ -4,4 +4,4 @@ echo "nee peru enti bro ="
 
 read neeperu
 
-echo "idho nee peru: $neeperu"
+echo "nee peru enter chesav aithe: $neeperu"
