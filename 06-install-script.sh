@@ -7,5 +7,5 @@ then
   echo "error:: u must be in the root user."
 fi
 
-dnf install mysqll -y
+dnf install mysql -y
  
