@@ -4,7 +4,7 @@ userid=$(id -u)
 
 if [ $userid -ne 0 ]
 then
-  echo "error:: u must be in the root user."
+  echo "error:: u must be in the root user to execute this scripts."
   exit 1
 fi
   
