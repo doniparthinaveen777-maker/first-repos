@@ -2,7 +2,7 @@
 
 USERID=$(id -u)
 
-if [ USERID -ne 0 ]
+if [ $USERID -ne 0 ]
 then 
     echo "U MUST HAVE ROOT USER FOR EXECUTING THIS SCRIPT"
     exit 1
