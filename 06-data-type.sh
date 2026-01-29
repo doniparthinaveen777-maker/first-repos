@@ -1,7 +1,7 @@
 #!/bin/bash
 
-NUMBER1=$1
-NUMBER2=$2
+
+
 TIMESTAMP=$(date)
 echo "scripts execute at : $TIMESTAMP"
 echo "EDHO OKA NUMBER IVVU BRO ADD CHESTHA :"
