@@ -7,5 +7,8 @@ echo "Present working directory: $pwd"
 echo "Home direcotry of current user: $HOME"
 echo "User is running this script: $USER"
 echo "Id of current Script: $$"
-sleep 60 $ "#this command is used for example only. this '&' symbol is useed for run in backgruond"
+sleep 60 $ 
 echo "Id of last command in background: $!"
+
+
+ #8th line matter this command is used for example only. this '&' symbol is useed for run in backgruond
