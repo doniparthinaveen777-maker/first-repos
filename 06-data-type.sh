@@ -5,6 +5,4 @@ NUMBER2=$2
 
 SUM=$($NUMBER1+$NUMBER2)
 
-echo "ADDING $NUMBER1 AND $NUMBER2 is $SUM "
-
-fi
+echo "ADDING sum of $NUMBER1 AND $NUMBER2 is $SUM "
