@@ -4,6 +4,6 @@
 
  echo "first anime of ${ANIME[0]}"
  echo "second anime of ${ANIME[1]}"
- ECHO "third anime of ${ANIME[2]}"
+ echo "third anime of ${ANIME[2]}"
 
- ECHO "ALL THE ANIME OF ${ANIME[@]}"
+ echo "ALL THE ANIME OF ${ANIME[@]}"
