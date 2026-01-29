@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo "enter a number: "
-read NUMBER=$1
+read $NUMBER=$1
 
 if [ $NUMBER -gt 100 ]
 then 
