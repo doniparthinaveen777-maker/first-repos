@@ -2,8 +2,8 @@
  
  ANIME=("one piece" "jjk" "bleach")
 
- echo "first anime of ${ANIME[0]}"
- echo "second anime of ${ANIME[1]}"
- echo "third anime of ${ANIME[2]}"
+ echo "first anime is: ${ANIME[0]}"
+ echo "second anime is: ${ANIME[1]}"
+ echo "third anime is: ${ANIME[2]}"
 
- echo "ALL THE ANIME OF ${ANIME[@]}"
+ echo "ALL THE ANIME are: ${ANIME[@]}"
