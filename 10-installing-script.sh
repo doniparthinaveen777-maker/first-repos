@@ -52,7 +52,7 @@ else
 fi 
 else 
   echo "GIT alredy existing here."
-
+  
   fi
 
 
